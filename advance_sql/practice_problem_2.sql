@@ -1,3 +1,6 @@
+/*Job Market Analysis: Count and Salary Insights for Various Roles in India*/
+
+
 SELECT 
     job_title_short as jobs,
     count(job_title_short) as job_count,
