@@ -1,3 +1,6 @@
+/*Job Skills Mapping: Identifying Required Skills for Various Roles */
+
+
 SELECT 
     job_postings.job_id,
     job_postings.job_title_short AS title,
