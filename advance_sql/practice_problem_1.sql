@@ -1,3 +1,5 @@
+/*Top 10 Data & Business Analyst Job Postings in India with Salary Insights */
+
 SELECT 
     job_title,
     name as company_name,
