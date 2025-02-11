@@ -1,3 +1,5 @@
+/* High-Paying Skills in India: Job Demand and Average Salary Analysis */
+
 SELECT skills.skills AS skill_name,
 COUNT(skills_to_job.job_id) AS number_of_job_postings,
 ROUND(AVG(job_postings.salary_year_avg), 2) AS avg_salary_for_skill
