@@ -56,5 +56,8 @@ Here is the breakdown of the top-paying jobs in India where the job title consis
 
 ![Screenshot 2025-02-12 174559](https://github.com/user-attachments/assets/c274e918-4746-4e8e-a200-5c307c67ca65)
 
-### 2.
+### 2.What are the top 10 skills that are having the highest average salary in India?
+
+
+![bluish_black_table_new](https://github.com/user-attachments/assets/1be0e869-de96-4f1f-bfa8-ec5c2a2fc24c)
 
