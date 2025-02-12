@@ -226,6 +226,9 @@ ORDER BY
     salary_year_avg DESC;
 ```
 
+![image](https://github.com/user-attachments/assets/ee375c22-c6f7-4fa6-a309-ff01f030298b)
+*Bar graph visualizing the count of skills for the top paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
+
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
