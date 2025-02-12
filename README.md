@@ -58,6 +58,24 @@ Here is the breakdown of the top-paying jobs in India where the job title consis
 
 ### 2.What are the top 10 skills that are having the highest average salary in India?
 
+This SQL query retrieves the top 10 in-demand skills in India based on job postings. It calculates the number of job postings for each skill and the average annual salary for jobs requiring that skill. The results are filtered to include only skills with non-null salary values and are sorted in descending order of average salary, followed by the number of job postings.
+```sql
+SELECT 
+    skills.skills AS skill_name,
+    COUNT(skills_to_job.job_id) AS number_of_job_postings,
+    ROUND(AVG(job_postings.salary_year_avg), 2) AS avg_salary_for_skill
+FROM skills_dim AS skills
+LEFT JOIN skills_job_dim AS skills_to_job 
+    ON skills.skill_id = skills_to_job.skill_id
+LEFT JOIN job_postings_fact AS job_postings
+    ON skills_to_job.job_id = job_postings.job_id
+WHERE job_postings.job_country = 'India'  -- Corrected WHERE placement
+GROUP BY skills.skills
+HAVING AVG(job_postings.salary_year_avg) IS NOT NULL  -- Used the original function
+ORDER BY avg_salary_for_skill DESC,
+number_of_job_postings
+LIMIT 10;
 
+```
 ![Screenshot 2025-02-12 180018](https://github.com/user-attachments/assets/d0e1d6ea-f6ea-4277-a9e5-017cbf8377f0)
 
