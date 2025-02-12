@@ -68,7 +68,9 @@ LIMIT 10;
 Here is the breakdown of the top-paying jobs in India where the job title consist of Data Analyst and Business Analyst
 
 ✅ **Top Companies**: NielsenIQ, Avaloq, Bosch, Freshworks, Spotify, DoorDash, etc.
+
 ✅ **Locations**: Major cities like Pune, Bengaluru, Chennai, Gurugram, Mumbai.
+
 ✅ **Salary**: Most roles offer ₹111,175 per year.
 
 
@@ -93,6 +95,22 @@ number_of_job_postings
 LIMIT 10;
 
 ```
+### Top 10 Skills with the Highest Average Salary in India
+
+| Skill Name      | Number of Job Listings | Average Salary ($) |
+|---------------|----------------------|------------------|
+| gdpr         | 336                  | 163,782.00      |
+| haskell      | 8                    | 157,500.00      |
+| watson       | 66                   | 157,500.00      |
+| cognos       | 256                  | 157,500.00      |
+| rshiny       | 34                   | 155,000.00      |
+| microstrategy | 338                 | 150,166.67      |
+| drupal       | 26                   | 147,500.00      |
+| couchbase    | 54                   | 147,500.00      |
+| rust         | 61                   | 147,500.00      |
+| php          | 149                  | 147,500.00      |
+
+
 Here is the breakdown of the top 10 skills that are having the highest average salary in India?
 
 - **GDPR** has the highest average salary ($163,782) with **336 job openings**.
