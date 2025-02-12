@@ -51,4 +51,6 @@ Here is the breakdown of the top-paying jobs in India where the job title consis
 ✅ Top Companies: NielsenIQ, Avaloq, Bosch, Freshworks, Spotify, DoorDash, etc.
 ✅ Locations: Major cities like Pune, Bengaluru, Chennai, Gurugram, Mumbai.
 ✅ Salary: Most roles offer ₹111,175 per year.
-![Screenshot 2025-02-12 125146](https://github.com/user-attachments/assets/4c5e5a87-26e1-41de-b902-9e8a5b22a268)
+![image](https://github.com/user-attachments/assets/2ddb7443-b5b1-49ee-a54a-ba2dcaf7053e)
+
+
