@@ -77,5 +77,16 @@ number_of_job_postings
 LIMIT 10;
 
 ```
+Here is the breakdown of the top 10 skills that are having the highest average salary in India?
+
+- **GDPR** has the highest average salary ($163,782) with **336 job openings**.
+- **Haskell, Watson, and Cognos** share the second-highest average salary ($157,500), but **Haskell has significantly fewer job openings (8)**.
+- **MicroStrategy** has the most job openings (338) but a lower average salary ($150,166).
+- **PHP, Rust, Couchbase, and Drupal** have the lowest average salaries in this list ($147,500).
+
+This data indicates that while some skills offer high salaries, they may have fewer job opportunities, and vice versa.
+
 ![Screenshot 2025-02-12 180018](https://github.com/user-attachments/assets/d0e1d6ea-f6ea-4277-a9e5-017cbf8377f0)
+
+
 
