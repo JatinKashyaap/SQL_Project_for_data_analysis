@@ -48,6 +48,23 @@ salary_year_avg is  NOT NULL
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
+### Top Paying Jobs in India
+
+| job_title                     | company_name  | job_location                   | salary_year_avg |
+|--------------------------------|--------------|--------------------------------|----------------|
+| Process and Data Analyst      | Bosch Group  | Bengaluru, Karnataka, India   | 111175.0      |
+| Methods and Data Analyst      | NielsenIQ    | Pune, Maharashtra, India      | 111175.0      |
+| Data Analyst                  | Avaloq       | Pune, Maharashtra, India      | 111175.0      |
+| Data Analyst                  | DoorDash     | Pune, Maharashtra, India      | 111175.0      |
+| Data Analyst                  | Poshmark     | Chennai, Tamil Nadu, India    | 111175.0      |
+| Data Analyst                  | Freshworks   | Chennai, Tamil Nadu, India    | 111175.0      |
+| Data Analyst                  | Poshmark     | Chennai, Tamil Nadu, India    | 111175.0      |
+| Data Analyst                  | Truecaller   | Bengaluru, Karnataka, India   | 111175.0      |
+| Data Analyst                  | ChargePoint  | Gurugram, Haryana, India      | 111175.0      |
+| Data Analyst                  | Spotify      | Mumbai, Maharashtra, India    | 111175.0      |
+
+
+
 Here is the breakdown of the top-paying jobs in India where the job title consist of Data Analyst and Business Analyst
 
 ✅ **Top Companies**: NielsenIQ, Avaloq, Bosch, Freshworks, Spotify, DoorDash, etc.
