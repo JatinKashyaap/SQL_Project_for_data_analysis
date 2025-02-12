@@ -52,5 +52,5 @@ Here is the breakdown of the top-paying jobs in India where the job title consis
 ✅ Locations: Major cities like Pune, Bengaluru, Chennai, Gurugram, Mumbai.
 ✅ Salary: Most roles offer ₹111,175 per year.
 
-![image](https://github.com/user-attachments/assets/cd51a757-c67a-48da-868b-e1372a7ff69e)
+![Screenshot 2025-02-12 174559](https://github.com/user-attachments/assets/c274e918-4746-4e8e-a200-5c307c67ca65)
 
