@@ -27,7 +27,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
-###1. What are the top-paying jobs in India where the job title consist of Data Analyst and Business Analyst?
+1. What are the top-paying jobs in India where the job title consist of Data Analyst and Business Analyst?
 
 
 This SQL query retrieves the top 10 highest-paying job postings for Data Analyst or Business Analyst roles in India, excluding senior positions.
