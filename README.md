@@ -54,7 +54,6 @@ Here is the breakdown of the top-paying jobs in India where the job title consis
 ✅ **Locations**: Major cities like Pune, Bengaluru, Chennai, Gurugram, Mumbai.
 ✅ **Salary**: Most roles offer ₹111,175 per year.
 
-![Screenshot 2025-02-12 174559](https://github.com/user-attachments/assets/c274e918-4746-4e8e-a200-5c307c67ca65)
 
 ### 2.What are the top 10 skills that are having the highest average salary in India?
 
@@ -86,7 +85,7 @@ Here is the breakdown of the top 10 skills that are having the highest average s
 
 This data indicates that while some skills offer high salaries, they may have fewer job opportunities, and vice versa.
 
-![Screenshot 2025-02-12 180018](https://github.com/user-attachments/assets/d0e1d6ea-f6ea-4277-a9e5-017cbf8377f0)
+
 
 ### 3. Top Paying Data Analyst Jobs
 
